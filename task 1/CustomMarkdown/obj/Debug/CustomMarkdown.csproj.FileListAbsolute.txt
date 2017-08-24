@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\bin\Debug\CustomMarkdown.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\bin\Debug\CustomMarkdown.exe
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\bin\Debug\CustomMarkdown.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\obj\Debug\CustomMarkdown.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\obj\Debug\CustomMarkdown.exe
+c:\users\simidev\documents\visual studio 2017\Projects\CustomMarkdown\CustomMarkdown\obj\Debug\CustomMarkdown.pdb

@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.exe
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\bin\Debug\SearchString.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.exe
+c:\users\simidev\documents\visual studio 2017\Projects\SearchString\SearchString\obj\Debug\SearchString.pdb
